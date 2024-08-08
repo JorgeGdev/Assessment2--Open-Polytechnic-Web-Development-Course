@@ -26,7 +26,7 @@ Features
 🔥 DHCP Services: Identifies the device providing DHCP services.
 🔥 Firewall Protection: Shows the internet connection protected by a firewall, providing network services to all devices.
 🔥 Live Demo
-🔥 You can view the live project here: https://supermarket-assessment2-open-polythecnic.vercel.app/
+🔥 You can view the live project here: https://supermarket-assessment2-open-polytechnic.vercel.app/
 
 Technologies Used
 💻Astro: Static site generator for building fast, optimized websites.
@@ -43,7 +43,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/JorgeGdev/Assessment2--Open-Polythecnic-Web-Development-Course
+git clone https://github.com/JorgeGdev/Assessment2--Open-Polytechnic-Web-Development-Course
 cd supermarket-network-diagram
 Install dependencies:
 
